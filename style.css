@@ -125,7 +125,8 @@
     box-sizing: border-box;
   }
   
-  a { text-decoration: none; }
+  a { text-decoration: none;
+    color: white}
   
   li { list-style: none; }
   
